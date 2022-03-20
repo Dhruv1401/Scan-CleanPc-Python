@@ -10,4 +10,5 @@ This is a python file made by me.
 <br>
 Links - 
 <a href="https://discord.gg/P5TNB9jzKr" target="_blank">Discord</a>
+<br>
 <a href="https://www.youtube.com/channel/UCq_0PiQz6KBb6bsN6xG_LOA" target="_blank">Youtube</a>
