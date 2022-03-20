@@ -8,7 +8,8 @@ This is a python file made by me.
 <br>
 <h2>BTC to "3JPUXmphduoJDZ2iecc3WW5Fg83BPQ4dWW"</h2>
 <br>
-Links - 
+<h1>Links -</h1> 
+<br>
 <a href="https://discord.gg/P5TNB9jzKr" target="_blank">Discord</a>
 <br>
 <a href="https://www.youtube.com/channel/UCq_0PiQz6KBb6bsN6xG_LOA" target="_blank">Youtube</a>
